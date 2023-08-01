@@ -145,6 +145,8 @@
             nationalityElement.textContent = "Nationality: " + data.nationality;
             if (data.nationality === 'Israel') {
                 nationalityElement.style.color = '#F6BE00';
+            }else if (data.nationality === "Palestinian") {
+                nationalityElement.style.color = 'black';
             } else if (data.nationality === "Sorry, The Car Plate doesn't Detected") {
                 nationalityElement.style.color = 'red';
             }
