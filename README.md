@@ -1,4 +1,7 @@
 # Car-Plate-Detection-And-Publish-It-With-Django-Framework
+![image](https://github.com/SalahAlDin2021/Car-Plate-Detection-And-Publish-It-With-Django-Framework/assets/91832490/5443fb7b-a29b-4335-9620-56a0a0ddf152)
+![image](https://github.com/SalahAlDin2021/Car-Plate-Detection-And-Publish-It-With-Django-Framework/assets/91832490/c1cb6e40-5f48-4498-a18e-65cbc210b980)
+![image](https://github.com/SalahAlDin2021/Car-Plate-Detection-And-Publish-It-With-Django-Framework/assets/91832490/53b6e8b7-8d65-4090-948a-0d6e2a23770d)
 ## Introduction
 
 This project is a web-based application that allows users to upload an image of a car, and then detects and returns the car's license plate. This application is developed using Django for the backend, HTML/CSS/JavaScript for the frontend, and integrates a pre-trained model for the license plate detection.
